@@ -5,3 +5,8 @@ b. Banana Cake
 c. Cilok
 d. Durian Cake 
 --------------
+Menu 2nd :
+e. Emping Crackers
+f. Fried Rice 
+g. Guava Juice
+----------------
